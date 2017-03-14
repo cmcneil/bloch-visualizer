@@ -19,3 +19,6 @@ frame_rate = 25
 subsample = 1
 vm.vis_magnetic_moment(M, frame_rate, subsample)
 ````
+
+Enjoy your animation!
+![Animation](example.png?raw=true "Animation")
